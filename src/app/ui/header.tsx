@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <header className="flex">
+    <header className="flex justify-between">
       <Link href="/">
         <Image src='/logo.png' width={400} height={50} alt="Logo | Madison Beer" />
       </Link>
