@@ -1,5 +1,5 @@
 export default function Page() {
   return (
-    <p>About page</p>
+    <p className=" text-7xl">Madison Beer is a platinum-selling recording artist, songwriter, producer, and author</p>
   )
 }
