@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div className="py-4">
-        <Image src="/home/hero-1.jpg" width={1000} height={500} alt="madison beer tour" className="mx-auto" />
+        <Image src="/home/hero-1.jpg" width={1000} height={500} alt="madison beer tour" className="mx-auto rounded-2xl" />
       </div>
     </>
   )
