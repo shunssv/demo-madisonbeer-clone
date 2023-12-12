@@ -8,6 +8,7 @@ export default function Page() {
         <Image src="/about/profile-1.jpg" width={1200} height={1300} alt="profile | madison beer" className="rounded-2xl"/>
       </div>
 
+      <Image src="/about/profile-1.jpg" width={1200} height={1300} alt="profile | madison beer" className="rounded-2xl"/>
       <Image src="/about/profile-2.jpg" width={1200} height={1100} alt="profile | madison beer" className="rounded-2xl"/>
       <Image src="/about/profile-2.jpg" width={1200} height={1100} alt="profile | madison beer" className="rounded-2xl"/>
 
