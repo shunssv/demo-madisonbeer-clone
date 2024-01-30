@@ -11,7 +11,7 @@ export default function Header() {
         <li>Music</li>
         <li>Videos</li>
         <li>LIVE</li>
-        <li>Photos</li>
+        <li><Link href="/photos">Photos</Link></li>
         <li>News</li>
         <li><Link href="/about">About</Link></li>
       </ul>
