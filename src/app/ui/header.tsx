@@ -8,7 +8,7 @@ export default function Header() {
         <Image src='/logo.svg' width={400} height={50} alt="Logo | Madison Beer" />
       </Link>
       <ul className="hidden md:flex md:gap-5">
-        <li>Music</li>
+        <li><Link href="/music">Music</Link></li>
         <li>Videos</li>
         <li>LIVE</li>
         <li><Link href="/photos">Photos</Link></li>
